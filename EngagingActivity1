@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head><title>RegistrationPage</title></head>
+    <h1>Sign Up</h1>
+    <h4>It's swift and effortless</h4>
+        <body background="regpage.jpg">
+            <form>
+                <p>
+                    <label> First Name:
+                    <input type = "text" placeholder="Enter First Name" name = "firstname_name" required></label>
+                    <label> Last Name:
+                    <input type = "text" placeholder="Enter Last Name" name = "lastname_name" required></label>
+                    <label><br><br>Email:
+                    <input type = "email" placeholder="Enter Email" name = "email_address"></label>
+                    <label> New Password: 
+                    <input type = "password" placeholder="Enter New Password" name = "new_password"></label>       
+                </p>
+
+                <p>
+                    <label> Birthday:
+                    <input type = "date" name = "Birthday"></label>
+                    <label><br><br>Gender:
+                    <label> <input type = "radio" name = "Gender" required value="Female"> Female</label>
+                    <label> <input type = "radio" name = "Gender" required value="Male"> Male</label>
+                    <label> <input type = "radio" name = "Gender" required value="Custom"> Custom</label>
+                    <br><br>
+                    <input type = "button" name = "sign_up" value="Sign Up">
+                </p>
+            </form>
+        </body>
+</html>
