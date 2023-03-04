@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+    <head><title>RESUME</title>
+    </head>
+    <style>
+        body{
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            background-color: burlywood;
+        }
+        img{
+            width:400px;
+            height: 400x;
+            border-radius: 30%;
+            
+        }
+    </style>
+    <body>
+        <div>
+            <div class="center">
+                <img src="mypic.jpg" alt="picture"
+                width="510px">
+        </div>
+        <h1>Sudario, Shanley A.</h1>
+        <p1>shanley.sudario@lspu.edu.ph</p1>
+        <hr>
+        <b><p class="head">PERSONAL INFORMATION</p></b>
+        <ul>
+            <b><li>Date of Birth: </b> July 26, 2002</lu>
+            <b><li>Age: </b>20</lu>
+            <b><li>Address: </b> 7-355 Madriguerra St. Paete, Laguna</lu>
+            <b><li>Sex: </b> Female</lu>
+            <b><li>Civil Status: </b> Single</lu>
+        </ul>
+        <hr>
+        <b><p class="head">EDUCATION</p></b>
+        <lu>
+            <b><li>Elementary: </b> San Antonio Abad School</lu>
+            <b><li>Junior Hihgh School: </b>Liceo De Paete</lu>
+            <b><li>Senior High School: </b> Siniloan Integrated National High School</lu>
+            <b><li>Tertiary Education:</b> Laguna State Polytechnic University</lu>
+        </lu>
+        <hr>
+            <b><p class="head">INTEREST</p></b>
+        <lu>
+            <li>Reading</li>
+            <li>Watching</li>
+            <li>Photography</li>
+            <li>Artwork</li>
+        </lu>
+        <hr>
+        <b><p class="head">SKILLS</p></b>
+        <lu>
+            <li>Creativty</li>
+            <li>Time Management</li>
+            <li>Team Work</li>
+            <li>Active Listening</li>
+        </lu>
+        <hr>
+        <b><p class="head">LANGUAGE</p></b>
+        <lu>
+            <li>Filipino</li>
+            <li>English</li>
+        </lu>
+    </body>
+</html>
+    
